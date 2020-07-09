@@ -519,7 +519,7 @@ for i, d in df_human_test.iterrows():
     face_det_crop_resize(img_path)
 
 
-# ## 10. Creating bottleneck features from VGG-16 model. Here, we are using Transfer learning.
+# ## 5.1 Creating bottleneck features from VGG-16 model. Here, we are using Transfer learning.
 
 # In[427]:
 
@@ -539,7 +539,7 @@ CVHumans_batch_pointer = 0
 TestHumans_batch_pointer = 0
 
 
-# ## 10.1 Bottleneck features for Final Train data
+# ## 5.2 Bottleneck features for Final Train data
 
 # In[467]:
 
