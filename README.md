@@ -2,7 +2,7 @@
 
 ### Datasets
 Datasets links can be found here-https://drive.google.com/file/d/13ivfAOOaF8dLtiS-1hKV5uggBLZwl4pt/view?usp=sharing
-With these emotion-[angry,happy,sad,disgust,pain,fear,neutral,surprise]
+With these emotions-[angry,happy,sad,disgust,pain,fear,neutral,surprise]
 
 ### Download data sets according to the following order:
 Data->Bottleneck_FeaturesB->[Bottleneck_CombinedTrain, Bottleneck_CVHumans, Bottleneck_TestHumans, CombinedTrain_Labels, CVHumans_Labels, TestHumans_Labels]
