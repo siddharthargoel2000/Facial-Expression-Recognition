@@ -6,10 +6,15 @@ With these emotion-[angry,happy,sad,disgust,pain,fear,neutral,surprise]
 
 ### Download data sets according to the following order:
 Data->Bottleneck_FeaturesB->[Bottleneck_CombinedTrain, Bottleneck_CVHumans, Bottleneck_TestHumans, CombinedTrain_Labels, CVHumans_Labels, TestHumans_Labels]
+#
 Data->Dataframes
+#
 Data->Humans->[Angry, Happy, Sad, Disgust, Pain, Fear, Neutral, Surprise]
+#
 Data->Logs
+#
 Data->Model_Save
+#
 Data->Test
     
 ## Now you'll be able to run the code
