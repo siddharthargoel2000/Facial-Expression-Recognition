@@ -17,22 +17,22 @@ CLASSIFY THE EXPRESSION OF FACE IN IMAGE OUT OF EIGHT BASIC HUMAN EXPRESSION
 https://drive.google.com/file/d/13ivfAOOaF8dLtiS-1hKV5uggBLZwl4pt/view?usp=sharing
 
 ### Prerequisites
-You need to have installed following softwares and libraries in your machine before running this project.
+You need to have installed following softwares and libraries in your machine before running this project.  
+Python 3  
+Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy, PIL.  
+OpenCV  
+keras  
+Installing  
+Python 3: https://www.python.org/downloads/  
+Anaconda: https://www.anaconda.com/download/  
+OpenCV: pip install opencv-python  
+Keras: pip install keras  
+Built With  
+ipython-notebook - Python Text Editor  
+OpenCV - It is used for processing images  
+Keras - Deep Learning Library  
+Sklearn: It is a Machine Learning library but here it is used just to calculate accuracy and confusion matrix.  
 
-Python 3
-Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy, PIL.
-OpenCV
-keras
-Installing
-Python 3: https://www.python.org/downloads/
-Anaconda: https://www.anaconda.com/download/
-OpenCV: pip install opencv-python
-Keras: pip install keras
-Built With
-ipython-notebook - Python Text Editor
-OpenCV - It is used for processing images
-Keras - Deep Learning Library
-Sklearn: It is a Machine Learning library but here it is used just to calculate accuracy and confusion matrix.
 
 ## Directory setup format
 Data->Bottleneck_Features->[Bottleneck_CombinedTrain, Bottleneck_CVHumans, Bottleneck_TestHumans,CombinedTrain_Labels, CVHumans_Labels, TestHumans_Labels],
