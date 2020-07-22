@@ -8,7 +8,7 @@ This model can be used for prediction of expressions of both still images and re
 ## Business Problem
 We are using the Facial Expression recognition model for predicting the real time condition of the patient in the hospitals. Pain Attribute would give an alert of critical condition of the patient.
 
-For any image our goal is to predict the expression of the face in that image out of seven basic human expression
+For any image our goal is to predict the expression of the face in that image out of eight basic human expression
 
 ## Problem Statement
 CLASSIFY THE EXPRESSION OF FACE IN IMAGE OUT OF EIGHT BASIC HUMAN EXPRESSION
